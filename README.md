@@ -13,7 +13,7 @@
 
 ---
 
-<div style="display: flex; align-items: center; gap: 10px;">
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 20px;">
   <div>
     <h3>🛠️ Tech Stack:</h3>
     <ul>
@@ -25,9 +25,10 @@
     </ul>
   </div>
   <div>
-    <img src="https://cdn3.emoji.gg/emojis/2487_smugrin.png" width="50px">
+    <img src="https://cdn3.emoji.gg/emojis/2487_smugrin.png" width="80px">
   </div>
 </div>
+
 
 
 ---
