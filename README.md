@@ -13,7 +13,7 @@
 
 ---
 
-<div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+<div style="display: flex; align-items: center; justify-content: center; gap: 20px; font-size="5px">
   <div>
     <h3>🛠️ Tech Stack:</h3>
     <ul>
