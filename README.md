@@ -27,7 +27,7 @@
 ### 🏆 LeetCode Stats:  
 🔥 Solving DSA problems one bug at a time!  
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/YourLeetCodeUsername?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/YourLeetCodeUsername)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/ALTENER?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/ALTENER)
 
 ---
 
