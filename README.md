@@ -22,7 +22,7 @@
         <li>🌐 <b>Frontend:</b> React, Tailwind CSS</li>
         <li>🏗️ <b>Backend:</b> Node.js, Express, gRPC</li>
         <li>🛢️ <b>Database:</b> MongoDB, Firebase</li>
-        <li>🎮 <b>Hobbies:</b> breaking production code, and pretending to fix bugs  </li>
+        <li>🎮 <b>Hobbies:</b>Gaming, Personal Projects, breaking production code, and pretending to fix bugs  </li>
       </ul>
     </td>
     <td>
