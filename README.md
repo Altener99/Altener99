@@ -68,7 +68,7 @@
 
 ---
 
-### 📬 Want to Connect?<img src="https://cdn3.emoji.gg/emojis/8573_Shikiconfused.png" alt="Winking Face" style="width: 2em; height: 2em; vertical-align: middle;">
+### 📬 Want to Connect?**&nbsp;<img src="https://cdn3.emoji.gg/emojis/8573_Shikiconfused.png" alt="Winking Face" style="width: 2em; height: 2em; vertical-align: middle;">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/devanshu-dutta-6640a724b/)  
 
