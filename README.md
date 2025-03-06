@@ -21,7 +21,7 @@
 - 🎮 **Hobbies:** Watching anime, breaking production code, and pretending to fix bugs 😆  
 
   <div>
-    <img src="https://i.pinimg.com/736x/33/20/80/332080d69691c491cc8922b76b997dd0.jpg">
+    <img src="https://cdn3.emoji.gg/emojis/2487_smugrin.png">
   </div>
 
 ---
