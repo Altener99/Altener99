@@ -3,7 +3,7 @@
 #### 🚀 Tech is fun. Code is life. Debugging is pain.  
 #### But hey, we love it anyway! 😆  
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF5722&center=true&width=600&lines=Full-Stack+Developer+%7C+Anime+Lover;React%2C+MERN%2C+Tailwind%2C+gRPC;Building+Cool+Things+One+Commit+at+a+Time!;Currently+Learning+New+Ways+to+Break+Code+💥)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF5722&center=true&width=600&lines=Full-Stack+Developer;React%2C+MERN%2C+Tailwind%2C+gRPC;Building+Cool+Things+One+Commit+at+a+Time!;Currently+Learning+New+Ways+to+Break+Code+💥)
 
 ---
 
