@@ -74,5 +74,5 @@
 
 ---
 
-### 🔥 If you’ve scrolled this far…  
-**Drop a ⭐ on my repos! Or just pretend you were impressed. That works too.**  
+### 🔥 If you’ve scrolled this far…
+**Drop a ⭐ on my repos! Or just pretend you were impressed. That works too.** ![wink](https://github.githubassets.com/images/icons/emoji/unicode/1f609.png)
