@@ -4,8 +4,8 @@
 #### But hey, we love it anyway! 😆  
 
 
-<div align="center" style="display: flex; align-items: center; justify-content: center;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF5722&center=true&width=600&lines=Full-Stack+Developer;React%2C+MERN%2C+Tailwind%2C+gRPC;Building+Cool+Things+One+Commit+at+a+Time!;Currently+Learning+New+Ways+to+Break+Code+💥">
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+  <img style="margin-right: 20px;" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF5722&center=true&width=600&lines=Full-Stack+Developer;React%2C+MERN%2C+Tailwind%2C+gRPC;Building+Cool+Things+One+Commit+at+a+Time!;Currently+Learning+New+Ways+to+Break+Code+💥">
   <img src="https://media1.tenor.com/m/Obn4E0g2fFQAAAAC/game-gaming.gif" width="300px">
 </div>
 
