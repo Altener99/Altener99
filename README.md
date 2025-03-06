@@ -13,7 +13,7 @@
 
 ---
 
-<table>
+<table style="border: none;">
   <tr>
     <td>
       <h3>🛠️ Tech Stack:</h3>
