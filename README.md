@@ -24,6 +24,13 @@
 
 ---
 
+### 🏆 LeetCode Stats:  
+🔥 Solving DSA problems one bug at a time!  
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/YourLeetCodeUsername?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/YourLeetCodeUsername)
+
+---
+
 ### 🤖 Random Dev Quote:
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
@@ -42,4 +49,3 @@
 
 ### 🔥 If you’ve scrolled this far…  
 **Drop a ⭐ on my repos! Or just pretend you were impressed. That works too. 😉**  
-
