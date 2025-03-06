@@ -13,21 +13,24 @@
 
 ---
 
-<div style="display: flex; align-items: center; justify-content: space-between; gap: 20px;">
-  <div>
-    <h3>🛠️ Tech Stack:</h3>
-    <ul>
-      <li>💻 <b>Languages:</b> JavaScript, C++, Python</li>
-      <li>🌐 <b>Frontend:</b> React, Tailwind CSS</li>
-      <li>🏗️ <b>Backend:</b> Node.js, Express, gRPC</li>
-      <li>🛢️ <b>Database:</b> MongoDB, Firebase</li>
-      <li>🎮 <b>Hobbies:</b> Watching anime, breaking production code, and pretending to fix bugs 😆</li>
-    </ul>
-  </div>
-  <div>
-    <img src="https://cdn3.emoji.gg/emojis/2487_smugrin.png" width="80px">
-  </div>
-</div>
+<table>
+  <tr>
+    <td>
+      <h3>🛠️ Tech Stack:</h3>
+      <ul>
+        <li>💻 <b>Languages:</b> JavaScript, C++, Python</li>
+        <li>🌐 <b>Frontend:</b> React, Tailwind CSS</li>
+        <li>🏗️ <b>Backend:</b> Node.js, Express, gRPC</li>
+        <li>🛢️ <b>Database:</b> MongoDB, Firebase</li>
+        <li>🎮 <b>Hobbies:</b> Watching anime, breaking production code, and pretending to fix bugs 😆</li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://cdn3.emoji.gg/emojis/2487_smugrin.png" width="80px">
+    </td>
+  </tr>
+</table>
+
 
 
 
