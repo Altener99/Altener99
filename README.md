@@ -76,5 +76,5 @@
 ---
 
 ### 🔥 If you’ve scrolled this far…
-**Drop a ⭐ on my repos! Or just pretend you were impressed. That works too.** <img src="https://cdn3.emoji.gg/emojis/8573_Shikiconfused.png" alt="Winking Face" style="width: 2em; height: 2em; vertical-align: middle;">
+**Drop a ⭐ on my repos! Or just pretend you were impressed. That works too.** <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8c59eOh2JIa_A41-qH69VNRjYcz33XPvoGg&s" alt="Winking Face" style="width: 2em; height: 2em; vertical-align: middle;">
 
