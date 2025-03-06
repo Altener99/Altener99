@@ -13,16 +13,22 @@
 
 ---
 
-### 🛠️ Tech Stack:
-- 💻 **Languages:** JavaScript, C++, Python  
-- 🌐 **Frontend:** React, Tailwind CSS  
-- 🏗️ **Backend:** Node.js, Express, gRPC  
-- 🛢️ **Database:** MongoDB, Firebase  
-- 🎮 **Hobbies:** Watching anime, breaking production code, and pretending to fix bugs 😆  
-
+<div style="display: flex; align-items: center; gap: 10px;">
   <div>
-    <img src="https://cdn3.emoji.gg/emojis/2487_smugrin.png">
+    <h3>🛠️ Tech Stack:</h3>
+    <ul>
+      <li>💻 <b>Languages:</b> JavaScript, C++, Python</li>
+      <li>🌐 <b>Frontend:</b> React, Tailwind CSS</li>
+      <li>🏗️ <b>Backend:</b> Node.js, Express, gRPC</li>
+      <li>🛢️ <b>Database:</b> MongoDB, Firebase</li>
+      <li>🎮 <b>Hobbies:</b> Watching anime, breaking production code, and pretending to fix bugs 😆</li>
+    </ul>
   </div>
+  <div>
+    <img src="https://cdn3.emoji.gg/emojis/2487_smugrin.png" width="50px">
+  </div>
+</div>
+
 
 ---
 
