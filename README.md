@@ -13,9 +13,9 @@
 
 ---
 
-<table>
-  <tr>
-    <td>
+<table style="border-collapse: collapse; border: none;">
+   <tr style="border: none;">
+    <td style="border: none; vertical-align: middle;">
       <h3>🛠️ Tech Stack:</h3>
       <ul>
         <li>💻 <b>Languages:</b> JavaScript, C++, Python</li>
