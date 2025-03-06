@@ -21,7 +21,7 @@
 - 🎮 **Hobbies:** Watching anime, breaking production code, and pretending to fix bugs 😆  
 
   <div>
-    <img src="https://gimgs2.nohat.cc/thumb/f/350/anime-emoji-discord-emoji-rh-discordemoji-com-mad-anime-anime-discord-emojis-gasm--m2i8b1b1G6b1b1b1.jpg">
+    <img src="https://www.pngfind.com/pngs/m/158-1580142_smugrin-discord-emoji-anime-girls-smug-hd-png.png">
   </div>
 
 ---
