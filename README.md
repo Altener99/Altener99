@@ -48,10 +48,13 @@
 
 ### 🏆 LeetCode Stats:  
 🔥 Solving DSA problems one bug at a time!  
+<div style="display: flex; align-items: center;">
+  <a href="https://leetcode.com/ALTENER">
+    <img src="https://leetcard.jacoblin.cool/ALTENER?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats">
+  </a>
+  <img src="https://easydrawingguides.com/wp-content/uploads/2019/11/how-to-draw-hatsune-miku-featured-image-1200.png" alt="Hatsune Miku Drawing" width="150px" style="margin-left: 10px;">
+</div>
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/ALTENER?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/ALTENER)
-
-![](https://easydrawingguides.com/wp-content/uploads/2019/11/how-to-draw-hatsune-miku-featured-image-1200.png)
 
 ---
 
