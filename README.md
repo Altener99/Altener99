@@ -75,5 +75,5 @@
 ---
 
 ### 🔥 If you’ve scrolled this far…
-**Drop a ⭐ on my repos! Or just pretend you were impressed. That works too.** <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f609.png" alt="Winking Face" style="width: 1em; height: 1em; vertical-align: middle;">
+**Drop a ⭐ on my repos! Or just pretend you were impressed. That works too.** <img src="https://cdn3.emoji.gg/emojis/8573_Shikiconfused.png" alt="Winking Face" style="width: 1em; height: 1em; vertical-align: middle;">
 
