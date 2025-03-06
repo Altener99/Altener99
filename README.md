@@ -18,8 +18,8 @@
 
 ### 📈 My GitHub Stats:  
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Altener99&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Altener99&theme=tokyonight" />
 </div>
 
 ---
@@ -27,7 +27,7 @@
 ### 🏆 LeetCode Stats:  
 🔥 Solving DSA problems one bug at a time!  
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/YourLeetCodeUsername?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/YourLeetCodeUsername)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/ALTENER?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/ALTENER)
 
 ---
 
