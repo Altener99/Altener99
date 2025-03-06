@@ -1,28 +1,22 @@
-### 👋 Welcome to My GitHub!  
+### Hey there! 👋 Welcome to my GitHub  
 
 #### 🚀 Tech is fun. Code is life. Debugging is pain.  
 #### But hey, we love it anyway! 😆  
 
-<div align="center">
-  <img src="https://media.tenor.com/Q7vC8jUEqHcAAAAC/anime-hacking.gif" width="500px">
-</div>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF5722&center=true&width=600&lines=Full-Stack+Developer+%7C+Anime+Lover;React%2C+MERN%2C+Tailwind%2C+gRPC;Building+Cool+Things+One+Commit+at+a+Time!;Currently+Learning+New+Ways+to+Break+Code+💥)
 
 ---
 
-### 🎌 My Tech Arsenal:
-- 💻 **Languages:** C++ 🦾, JavaScript ⚡, Python 🐍  
-- 🌐 **Frontend:** React ⚛️, Tailwind CSS 🎨  
-- 🏗️ **Backend:** Node.js 🚀, Express ⚡, gRPC 🔗  
-- 🛢️ **Database:** MongoDB 🍃, Firebase 🔥  
-- 🎮 **Hobbies:** Watching anime 🎬, breaking production code 🛠️, pretending to fix bugs 😆  
-
-<div align="center">
-  <img src="https://media.tenor.com/Ug6cbVAk3D8AAAAC/code-anime.gif" width="400px">
-</div>
+### 🛠️ Tech Stack:
+- 💻 **Languages:** JavaScript, C++, Python  
+- 🌐 **Frontend:** React, Tailwind CSS  
+- 🏗️ **Backend:** Node.js, Express, gRPC  
+- 🛢️ **Database:** MongoDB, Firebase  
+- 🎮 **Hobbies:** Watching anime, breaking production code, and pretending to fix bugs 😆  
 
 ---
 
-### 📈 My GitHub Power Levels:  
+### 📈 My GitHub Stats:  
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight" />
@@ -30,19 +24,14 @@
 
 ---
 
-### 🏆 **LeetCode Arc: "The Path of a Code Ninja"**  
-🔥 Grinding DSA like it's **training for the Chunin Exams**!  
+### 🏆 LeetCode Stats:  
+🔥 Solving DSA problems one bug at a time!  
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/YourLeetCodeUsername?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/YourLeetCodeUsername)
 
-<div align="center">
-  <img src="https://media.tenor.com/hlKEXPvlX48AAAAC/megumin-konosuba.gif" width="400px">
-</div>
-
 ---
 
-### 💬 Legendary Anime Quote:
-> **"A lesson without pain is meaningless. That’s because you can’t gain something without sacrificing something."** – Edward Elric (FMA)  
+### 🤖 Random Dev Quote:
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
