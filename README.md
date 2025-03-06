@@ -21,7 +21,7 @@
 - 🎮 **Hobbies:** Watching anime, breaking production code, and pretending to fix bugs 😆  
 
   <div>
-    <img src="https://www.pngfind.com/pngs/m/158-1580142_smugrin-discord-emoji-anime-girls-smug-hd-png.png">
+    <img src="https://i.pinimg.com/736x/33/20/80/332080d69691c491cc8922b76b997dd0.jpg">
   </div>
 
 ---
