@@ -51,7 +51,7 @@
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/ALTENER?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/ALTENER)
 
-(https://dbl-discord.usercontent.prism.gg/emojis/834557767691927552.png)
+![](https://dbl-discord.usercontent.prism.gg/emojis/834557767691927552.png)
 
 ---
 
